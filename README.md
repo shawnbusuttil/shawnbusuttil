@@ -1,5 +1,12 @@
-## Hi there 👋
+## Welcome!  👋
 
+If you're here to take a look at the way I code, here are some samples for you.
+
+- [Ether Pay](https://github.com/shawnbusuttil/ether-pay) - A simple interface for sending ETH on testnet and seeing your transaction history.
+- [Asset Portfolio](https://github.com/shawnbusuttil/asset-portfolio) - A portfolio of assets, including the ability to filter by distribution.
+- [Bit Pay](https://github.com/shawnbusuttil/bitpay) - A simple interface for generating a random BTC address QR code on testnet that polls for payment. 
+
+I'm looking to help with "_fixing the money, fixing the world_". 😉 
 <!--
 **shawnbusuttil/shawnbusuttil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
